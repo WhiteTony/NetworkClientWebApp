@@ -4,6 +4,9 @@ using System.Net.NetworkInformation;
 
 
 var builder = WebApplication.CreateBuilder(args);
+var connectionString = builder.Configuration.GetConnectionString("NetworkClientDb") ?? "Data Source=networkclient.db";
+builder.Services.AddSqlite<NetworkClientDb>(connectionString);
+
 builder.Services.AddDbContext<NetworkClientDb>(opt => opt.UseInMemoryDatabase("NetworkClientList"));
 builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddEndpointsApiExplorer();
