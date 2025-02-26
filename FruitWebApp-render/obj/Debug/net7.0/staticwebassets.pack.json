@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Programming\\ASP.NET\\APIs\\NetworkClientWebApp\\FruitWebApp-render\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FruitWebApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FruitWebApp.37ryypwpj6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Programming\\ASP.NET\\APIs\\NetworkClientWebApp\\FruitWebApp-render\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Programming\\ASP.NET\\APIs\\NetworkClientWebApp\\FruitWebApp-render\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\User\\OneDrive\\Programming\\ASP.NET\\APIs\\NetworkClientWebApp\\FruitWebApp-render\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FruitWebApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.FruitWebApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.FruitWebApp.props",
+      "PackagePath": "build\\FruitWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.FruitWebApp.props",
+      "PackagePath": "buildMultiTargeting\\FruitWebApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.FruitWebApp.props",
+      "PackagePath": "buildTransitive\\FruitWebApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
